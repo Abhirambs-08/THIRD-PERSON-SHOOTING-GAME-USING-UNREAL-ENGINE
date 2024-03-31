@@ -15,11 +15,16 @@ Despite the abundance of third-person shooter games in the gaming market, there 
 - Character Physics
 ![image](https://github.com/Abhirambs-08/THIRD-PERSON-SHOOTING-GAME-USING-UNREAL-ENGINE/assets/119886477/4eb32045-dc73-474b-b030-627686c8a351)
 
+- Egypt Themed Map
+![image](https://github.com/Abhirambs-08/THIRD-PERSON-SHOOTING-GAME-USING-UNREAL-ENGINE/assets/119886477/5f369399-6662-432f-a673-53eab89b0608)
 
 
+- Teams Placement on the Map
+![image](https://github.com/Abhirambs-08/THIRD-PERSON-SHOOTING-GAME-USING-UNREAL-ENGINE/assets/119886477/f1387043-2d92-4380-a709-a49b7ee1cb3b)
 
-
-
+- Team Death match
+![image](https://github.com/Abhirambs-08/THIRD-PERSON-SHOOTING-GAME-USING-UNREAL-ENGINE/assets/119886477/94282bff-827f-4e06-bb05-3681bbec65d8)
+![image](https://github.com/Abhirambs-08/THIRD-PERSON-SHOOTING-GAME-USING-UNREAL-ENGINE/assets/119886477/9d04183a-ae6a-4d17-8fae-083ecc184762)
 
 
 
